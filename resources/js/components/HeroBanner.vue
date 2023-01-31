@@ -3,7 +3,7 @@
        <div class="w-1/2 flex flex-col">
             <div>
                 <h3 class="text-[50px] font-bold text-white">
-                    Sepatu Lari Dari Kenyataan
+                    Sepatu Lari Dari Kenyataan Dong
                 </h3>
                 <span class="text-[20px] text-gray-100">
                     Harusnya sih jangan lari dari kenyataan
